@@ -1,0 +1,46 @@
+.secondpage {
+  justify-content: space-between;
+  flex-wrap: wrap;
+
+}
+.secondpageitem {
+  width: 1230px;
+  height: 1270px;
+  left: 345px;
+
+  background: #ffffff;
+  border-radius: 20px;
+  margin-top: 104px;
+  margin-left: 364px;
+  margin-bottom: 95px;
+  padding-left: 90px;
+  padding-top: 40px;
+}
+.secondtext {
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 400;
+  display: inline;
+
+  font-size: 30px;
+  width: 331px;
+  height: 41px;
+  line-height: 41px;
+
+  color: #333333;
+}
+span {
+  color: #e59c9c;
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 700;
+  line-height: 40.85px;
+  padding-left: 35px;
+}
+.itemtext {
+  justify-content: space-between;
+  padding-top: 50px;
+  display: contents;
+  position: absolute;
+  
+}

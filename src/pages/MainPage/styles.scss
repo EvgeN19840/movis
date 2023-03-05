@@ -1,0 +1,40 @@
+.mainpage {
+  justify-content: space-between;
+  position: relative;
+  padding-bottom: 100px;
+
+  .movis {
+    font-family: "Open Sans";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 60px;
+    line-height: 82px;
+    color: #e59c9c;
+    width: 349px;
+    height: 82px;
+    margin-top: 99px;
+    margin-left: 780px;
+  }
+  .maintext {
+    width: 614px;
+    height: 41px;
+    font-family: "Open Sans";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 41px;
+    color: #ffffff;
+    margin-top: 5px;
+    margin-left: 648px;
+  }
+}
+.news {
+  width: 1230px;
+  height: 862px;
+  background: #ffffff;
+  border-radius: 20px;
+  margin-top: 50px;
+  margin-left: 364px;
+  padding-top: 40px;
+  padding-left: 90px;
+}

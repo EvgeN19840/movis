@@ -1,0 +1,99 @@
+.newsDeteilWrapper {
+  display: inline-flex;
+
+  position: relative;
+  width: 1230px;
+  height: 546px;
+  left: 346px;
+  top: 186px;
+  padding-top: 40.14px;
+  padding-left: 90px;
+  padding-right: 90px;
+
+  background: #ffffff;
+  border-radius: 20px;
+  margin-bottom: 540px;
+}
+.starrat {
+  position: absolute;
+  margin-left: 1150px;
+  display: inline-flex;
+}
+
+.namefilm {
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 28px;
+  line-height: 100.68%;
+  width: 570px;
+  height: 23.08px;
+  text-transform: uppercase;
+  color: #e59c9c;
+  flex-grow: 500px;
+}
+
+.prem {
+  align-items: center;
+
+  display: flex;
+
+  text-transform: uppercase;
+  margin-top: 64.23px;
+  color: #333333;
+}
+.country {
+  display: flex;
+  align-items: center;
+}
+.genres {
+  display: flex;
+  align-items: center;
+}
+.language {
+  display: none;
+}
+.summary {
+  display: flex;
+  align-items: center;
+
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 22px;
+  text-align: justify;
+
+  color: #333333;
+}
+.imgdet {
+  width: 229px;
+  height: 339.22px;
+  border-radius: 20px;
+  filter: drop-shadow(0px 5px 25px rgba(119, 119, 119, 0.08));
+  margin-right: 24px;
+}
+.imgstar {
+  width: 43px;
+  height: 43.16px;
+}
+.rating {
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 800;
+  font-size: 27px;
+  line-height: 37px;
+  text-transform: uppercase;
+  margin-left: 11px;
+
+  color: #333333;
+}
+.stylyname {
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 22px;
+margin-right: 50px;
+  color: #333333;
+}
